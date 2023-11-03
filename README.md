@@ -1,6 +1,6 @@
 # Welcome to my GitHub, I'm Stephanie 👋
 ---
-<font size="40">I'm a Data Scientist, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding 👩‍💻.</font>
+<h3>I'm a Data Scientist, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding 👩‍💻.
 <br>
 <b>Let us work together in the ever-changing ML landscape!  I'm for hire for freelancing, consulting, and full-time jobs.  You can reach me at PLACEHOLDER</b>
 
