@@ -1,11 +1,11 @@
 # Welcome to my GitHub, I'm Stephanie 👋
 ---
-I'm a Data Scientist, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding 👩‍💻.
+I'm a Senior Data Scientist, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding 👩‍💻.
 <br>
 <b>Let us work together on an exciting ML project!  I'm for hire for freelancing, consulting, and full-time jobs.  You can reach me by messaging me on [LinkedIn](https://www.linkedin.com/in/stephanielangeland/).</b>
 
 ## Bio
-I’m a Senior Data Scientist who translates data into business insights by leading, managing, and executing all facets of data science projects.  I’m passionate about machine learning and have built models for segmentation, NLP, propensity modeling, survival analysis, time series forecasting, and more.  In addition to my technical skills, I’m proficient in uniting stakeholders from cross-functional teams around a common goal to deploy models that solve the business problem at hand.  
+I translate data into business insights by leading, managing, and executing all facets of data science projects.  I’m passionate about machine learning and have built models for segmentation, NLP, propensity modeling, survival analysis, time series forecasting, and more.  In addition to my technical skills, I’m proficient in uniting stakeholders from cross-functional teams around a common goal to deploy models that solve the business problem at hand.  
 
 I have 6 years of data science experience in consulting, consumer products, HR analytics, insurance, media & entertainment, and government research.  Before graduating, top of my class, with a master’s degree from Columbia University, I worked with clients and led multifaceted internal audits in the investments space for 2 years.
 
