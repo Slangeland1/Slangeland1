@@ -1,13 +1,8 @@
-<h1><p align="center">Welcome to my GitHub, I'm Stephanie 👋</p>
-  
-<h3><p align="center"> I'm a Senior Data Scientist, who is passionate about machine learning 🤖 and scuba diving 🤿</p>
-  
+<p align="center">Welcome to my GitHub, I'm Stephanie 👋</p>
+<h3><p align="center"> I'm a Senior Data Scientist, who is passionate about machine learning 🤖 and scuba diving 🤿</p>  
 <h3><p align="center"> When I'm not underwater, my favorite days are spent coding 👩‍💻</p>
-  
 <h3><p align="center"> Let us work together in the ever-changing ML landscape! 🚀</p>
-  
 <h3><p align="center"> I'm for hire for freelancing, consulting, and full-time jobs.</p>
-  
 <h3><p align="center"> You can reach me at PLACEHOLDER</p>
 
 
