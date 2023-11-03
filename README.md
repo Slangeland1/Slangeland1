@@ -1,5 +1,8 @@
-# <p align="center">Welcome, I'm Stephanie 👋</p>
+# <p align="center">Welcome to my GitHub, I'm Stephanie 👋</p>
 
+---
+
+I'm a Senior Data Scientist.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
