@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Slangeland1/Slangeland1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="text-align:center;">Hello world</p>
 
 Here are some ideas to get you started:
 
