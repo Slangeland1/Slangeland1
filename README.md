@@ -1,5 +1,4 @@
 # <p align="center">Welcome to my GitHub, I'm Stephanie 👋</p>
----
 I'm a Senior Data Scientist, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding! 👩‍💻
 
 Here are some ideas to get you started:
