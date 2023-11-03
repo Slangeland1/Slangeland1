@@ -1,6 +1,6 @@
 # Welcome to my GitHub, I'm Stephanie 👋
 ---
-I'm a Data Scientist, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding 👩‍💻.
+I'm a <b>Data Scientist</b>, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding 👩‍💻.
 <br>
 <b>Let us work together on an exciting ML project!  I'm for hire for freelancing, consulting, and full-time jobs.  You can reach me by messaging me on [LinkedIn](https://www.linkedin.com/in/stephanielangeland/).</b>
 
