@@ -1,4 +1,4 @@
-<p align="center"># Welcome, I'm Stephanie 👋</p>
+# <p align="center">Welcome, I'm Stephanie 👋</p>
 
 Here are some ideas to get you started:
 
