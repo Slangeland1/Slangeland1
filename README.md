@@ -2,7 +2,7 @@
 ---
 I'm a <b><ins>Data Scientist</ins></b>, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding 👩‍💻.
 <br>
-<b>Let us work together on an exciting ML project!  I'm for hire for freelancing, consulting, and full-time jobs.  You can reach me by messaging me on [LinkedIn](https://www.linkedin.com/in/stephanielangeland/).</b>
+<b>Let's work together on an exciting ML project!  I'm for hire for freelancing, consulting, and full-time jobs.  You can reach me by messaging me on [LinkedIn](https://www.linkedin.com/in/stephanielangeland/).</b>
 
 ## Bio
 I translate data into business insights by leading, managing, and executing all facets of data science projects.  I’m passionate about machine learning and have built models for segmentation, NLP, propensity modeling, survival analysis, time series forecasting, and more.  In addition to my technical skills, I’m proficient in uniting stakeholders from cross-functional teams around a common goal to deploy models that solve the business problem at hand.  
