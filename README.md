@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p style="text-align:center;">Hello world</p>
+<p align="center">Hello world</p>
 
 Here are some ideas to get you started:
 
