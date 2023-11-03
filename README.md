@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<p align="center">Hello world</p>
+<p align="center">### Welcome, I'm Stephanie 👋</p>
 
 Here are some ideas to get you started:
 
