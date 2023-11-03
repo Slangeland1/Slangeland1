@@ -5,13 +5,10 @@ I'm a <b><ins>Data Scientist</ins></b>, who is passionate about machine learning
 <b>Let's work together on an exciting ML project!  I'm for hire for freelancing, consulting, and full-time jobs.  You can reach me by messaging me on [LinkedIn](https://www.linkedin.com/in/stephanielangeland/)</b> ![Linkedin](https://i.stack.imgur.com/gVE0j.png).
 
 ## Skills
-<b>Languages:</b> PySpark, Python, SQL, R, STATA, SPSS
-<br>
-<b>Tools:</b> Git, Databricks, MLflow, Snowflake, Redshift, S3, SageMaker, Plotly Dash, R Shiny
-<br>
-<b>Technical Skills:</b> Big data & distributed cloud computing, frequentist & Bayesian statistical analysis, machine learning, natural language processing (NLP), data visualization (Matplotlib, Seaborn, Plotly, Dash), data mining, data wrangling, data strategy
-<br>
-<b>Non-Technical Skills:</b> Project management, non-technical & technical stakeholder management, business acumen, communication, cross-functional team collaboration, detail-oriented & self-driven leader
+* <b>Languages:</b> PySpark, Python, SQL, R, STATA, SPSS
+* <b>Tools:</b> Git, Databricks, MLflow, Snowflake, Redshift, S3, SageMaker, Plotly Dash, R Shiny
+* <b>Technical Skills:</b> Big data & distributed cloud computing, frequentist & Bayesian statistical analysis, machine learning, natural language processing (NLP), data visualization (Matplotlib, Seaborn, Plotly, Dash), data mining, data wrangling, data strategy
+* <b>Non-Technical Skills:</b> Project management, non-technical & technical stakeholder management, business acumen, communication, cross-functional team collaboration, detail-oriented & self-driven leader
 
 ## Bio
 I translate data into business insights by leading, managing, and executing all facets of data science projects.  I’m passionate about machine learning and have built models for segmentation, NLP, propensity modeling, survival analysis, time series forecasting, and more.  In addition to my technical skills, I’m proficient in uniting stakeholders from cross-functional teams around a common goal to deploy models that solve the business problem at hand.  
