@@ -2,7 +2,7 @@
 ---
 I'm a <b><ins>Data Scientist</ins></b>, who is passionate about machine learning 🤖 and scuba diving 🤿.  When I'm not underwater, my favorite days are spent coding 👩‍💻.
 <br>
-<b>Let's work together on an exciting ML project!  I'm for hire for freelancing, consulting, and full-time jobs.  You can reach me by messaging me on [LinkedIn](https://www.linkedin.com/in/stephanielangeland/)</b> ![Linkedin](https://i.stack.imgur.com/gVE0j.png).
+<b>Let's work together on an exciting ML project!  I'm for hire for freelancing, consulting, and full-time jobs.  You can reach me by messaging me on [LinkedIn](https://www.linkedin.com/in/stephanielangeland/)</b>.
 
 ## Skills
 * <b>Languages:</b> PySpark, Python, SQL, R, STATA, SPSS
